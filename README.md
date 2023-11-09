@@ -1,4 +1,4 @@
 # TinDog
  Tinder for Dogs webpage
 
-![day58](https://user-images.githubusercontent.com/98851253/160501527-76c03c8e-8231-4477-b870-9306b2dce156.gif)
+[screen-capture.webm](https://github.com/AymirAydinli/TinDog/assets/22778361/af20c8fa-a9ff-4e68-a301-680a0e437ef0)
